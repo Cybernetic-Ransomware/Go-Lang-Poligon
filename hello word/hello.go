@@ -17,6 +17,11 @@ func main() {
 	fmt.Println(result)
 
 	fmt.Printf("%s, owner of a %s %s for %d years.", owner, what_stance, what, for_how_long)
+	
+	fmt.Println()
+	fmt.Print("Return")
+	fmt.Print(" me")
+	fmt.Print(" to living creatures!")
 
 }
 
