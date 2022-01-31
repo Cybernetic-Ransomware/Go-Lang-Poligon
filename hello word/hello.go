@@ -16,7 +16,7 @@ func main() {
 	result := fmt.Sprintf("%s, owner of a %s %s for %d years.", owner, what_stance, what, for_how_long)
 	fmt.Println(result)
 
-	fmt.Printf("%s, owner of a %s %s for %d years.", owner, what_stance, what, for_how_long)
+	fmt.Printf("%s, owner of a %s %s for %d years.\n", owner, what_stance, what, for_how_long)
 	
 	fmt.Println()
 	fmt.Print("Return")
